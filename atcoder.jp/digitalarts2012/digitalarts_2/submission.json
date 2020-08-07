@@ -1,0 +1,12 @@
+{
+	"id": 15747674,
+	"epoch_second": 1596827349,
+	"problem_id": "digitalarts_2",
+	"contest_id": "digitalarts2012",
+	"user_id": "Volverman",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 2059,
+	"result": "AC",
+	"execution_time": 7
+}
